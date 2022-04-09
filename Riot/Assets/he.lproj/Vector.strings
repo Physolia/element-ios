@@ -280,7 +280,6 @@
 "key_verification_bootstrap_not_setup_title" = "שגיאה";
 "error_not_supported_on_mobile" = "אתה לא יכול לבצע זאת מנייד %@.";
 
-
 // Generic errors
 "error_invite_3pid_with_no_identity_server" = "הוסף שרת זיהוי בהגדרות שלך על מנת לשלוח הזמנה במייל.";
 

@@ -20,4 +20,14 @@
 
 "image_picker_action_files" = "Choose from files";
 
+// MARK: Onboarding Authentication WIP
+"onboarding_registration_title" = "Create your account";
+"onboarding_registration_message" = "We’ll need some info to get you set up.";
+"onboarding_registration_server_title" = "Choose your server to store your data";
+"onboarding_registration_matrix_description" = "Join millions for free on the largest public server";
+"onboarding_registration_username" = "Username";
+"onboarding_registration_password" = "Password";
+"onboarding_registration_username_footer" = "You can’t change this later";
+"onboarding_registration_password_footer" = "Must be 8 characters or more";
+
 "spaces_feature_not_available" = "This feature isn't available here. For now, you can do this with %@ on your computer.";
